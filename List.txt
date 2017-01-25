@@ -1,2 +1,10 @@
 www.google-analytics.com
 ssl.google-analytics.com
+www.googleapis.com
+www.jackbox.tv
+yui-s.yahooapis.com
+fonts.googleapis.com
+maxcdn.bootstrapcdn.com
+ttv-api.s3.amazonaws.com
+ajax.googleapis.com
+googleads.g.doubleclick.net
